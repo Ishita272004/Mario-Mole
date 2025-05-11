@@ -1,1 +1,1 @@
-# Mario-Mole
+This a classic hit a mole game made by using HTML, CSS and JavaScript, in which we have to use the cursor to hit the mole and avoid hitting the pirhana plant which will cause the game to get over. I have added click handlers to hit the mole, and randomly spawn the mole and piranha plant.
